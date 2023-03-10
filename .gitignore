@@ -158,6 +158,11 @@ Desktop.ini
 # Recycle Bin used on file shares
 $RECYCLE.BIN/
 
+
+
+# Recycle Obj used on file shares
+$RECYCLE.OBJ/
+
 # Mac crap
 .DS_Store
 
@@ -169,3 +174,30 @@ glob:*.user
 *.patch
 *.hg
 
+/.vs/ImageProcessing/FileContentIndex/cb1e0b7c-4894-440c-9c95-091f192a547c.vsidx
+/.vs/ImageProcessing/FileContentIndex/bcec2b94-e377-43ae-a3ba-bc057804e041.vsidx
+/.vs/ImageProcessing/v17/.suo
+/Web/ImageProcessing.Web/obj/Container/ContainerId.cache
+/API/ImageProcessing.API/obj/Container/ImageId.cache
+/API/ImageProcessing.API/obj/Container/ImageBuildContext.cache
+/API/ImageProcessing.API/obj/Container/FastModeProjectMountDirectory.cache
+/API/ImageProcessing.API/obj/Container/DebuggeeWorkingDirectory.cache
+/API/ImageProcessing.API/obj/Container/DebuggeeProgram.cache
+/API/ImageProcessing.API/obj/Container/DebuggeeKillProcessCommand.cache
+/API/ImageProcessing.API/obj/Container/DebuggeeArguments.cache
+/API/ImageProcessing.API/obj/Container/ContainerOperatingSystemFlavor.cache
+/API/ImageProcessing.API/obj/Container/AdditionalProbingPaths.cache
+/API/ImageProcessing.API/obj/Container/AbsoluteOutputAssemblyPath.cache
+/API/ImageProcessing.API/obj/Container/VolumeMappings.cache
+/API/ImageProcessing.API/obj/Container/TargetFramework.cache
+/API/ImageProcessing.API/obj/Container/OperatingSystemName.cache
+/API/ImageProcessing.API/obj/Container/ImageId.cache
+/API/ImageProcessing.API/obj/Container/ImageBuildContext.cache
+/API/ImageProcessing.API/obj/Container/FastModeProjectMountDirectory.cache
+/API/ImageProcessing.API/obj/Container/DebuggeeWorkingDirectory.cache
+/API/ImageProcessing.API/obj/Container/DebuggeeProgram.cache
+/API/ImageProcessing.API/obj/Container/DebuggeeKillProcessCommand.cache
+/API/ImageProcessing.API/obj/Container/DebuggeeArguments.cache
+/API/ImageProcessing.API/obj/Container/ContainerOperatingSystemFlavor.cache
+/API/ImageProcessing.API/obj/Container/AdditionalProbingPaths.cache
+/API/ImageProcessing.API/obj/Container/AbsoluteOutputAssemblyPath.cache
