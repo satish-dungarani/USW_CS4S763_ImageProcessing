@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FCSOdL9qk8x8CD+S62b7gf2jm8D65cz0scSP0Hb1PFpgRi9hsAcj8tDCfndjsz6fP7bVjme2lwy9QYNZ/tqasw==",
+  "success": true,
+  "projectFilePath": "C:\\Satish\\Study\\ImageProcessing\\Web\\ImageProcessing.Web\\ImageProcessing.Web.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ersat\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.2\\microsoft.visualstudio.azure.containers.tools.targets.1.17.2.nupkg.sha512"
+  ],
+  "logs": []
+}
